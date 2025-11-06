@@ -1,7 +1,7 @@
 {
   "name": "My Penguin #1",
   "description": "A cool penguin from the Penny Penguins NFT collection, chilling on the Ethereum blockchain.",
-  "image": "https://kylewong613.github.io/nfts/MyPenguin.png",
+  "image": "https://jade-patient-viper-512.mypinata.cloud/ipfs/bafkreibn6fipqkzvkvobmvgsxxsshnxgoqoctu2qmtfmgsksplg3pi2rbm",
   "attributes": [
     { "trait_type": "Species", "value": "Penguin" },
     { "trait_type": "Mood", "value": "Chill" },
